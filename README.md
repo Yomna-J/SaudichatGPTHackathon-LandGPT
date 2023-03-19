@@ -19,7 +19,7 @@ LandGPT is a product that was designed and developed during the [SaudiChatGPT Ha
 </div>
 
 ## LandGPT Results
-We tested LandGPT by creating a landing page for a hypothetical user called "Sunny&Creamy" who has sun creams and skin care products and found that LandGPT was able to effectively showcase the product as shown below
+We tested LandGPT by creating a landing page for a fake hypothetical user called "Sunny&Creamy" who has sun creams and skin care products and found that LandGPT was able to effectively showcase the product as shown below
 <div align="center">
 <img src="https://github.com/Yomna-J/SaudichatGPTHackathon-LandGPT/blob/main/resources/res1.png" alt="logo" width="600">
 </div>
