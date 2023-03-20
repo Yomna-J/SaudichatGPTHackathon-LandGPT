@@ -11,7 +11,7 @@
 
 <p align="center">
 
-LandGPT is a product that was designed and developed during the [SaudiChatGPT Hackathon](https://tuwaiq.hackathon.sa/gpt) in just 48 hours! LandGPT is a user-friendly platform that uses ChatGPT to allow users to easily create, preview and download the source code of a customized landing page for their businesses, projects, or personal brands.It simplifies the process of creating a landing page and help you achieve your online goals. </p>
+LandGPT is a project that was designed and developed during the [SaudiChatGPT Hackathon](https://tuwaiq.hackathon.sa/gpt) in just 48 hours! LandGPT is a user-friendly platform that uses ChatGPT to allow users to easily create, preview and download the source code of a customized landing page for their businesses, projects, or personal brands.It simplifies the process of creating a landing page and help you achieve your online goals. </p>
 
 ## LandGPT UI
 <div align="center">
